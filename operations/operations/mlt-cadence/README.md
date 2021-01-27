@@ -20,7 +20,7 @@ This section outlines:
 * Chandar Venkatamaran: Chief Product Officer
 * Aneal Vallurupalli: VP, Finance
 * Chris Overton: VP, Engineering
-* Lindsay Brock: Head of Product Management
+* Barry Duplantis: VP, Customer Success
 
 # MLT Cadence
 
