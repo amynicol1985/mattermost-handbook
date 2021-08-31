@@ -23,6 +23,7 @@ This section outlines:
 * Chris Overton: VP, Engineering
 * Barry Duplantis: VP, Customer Success
 * Matt Harper: VP, Marketing
+* Dave Reardon: VP, World Wide Sales
 
 ## MLT Cadence
 
@@ -34,34 +35,7 @@ This section outlines:
 
 The purpose of BBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT BBR Channel](https://community.mattermost.com/private-core/channels/bbr).
 
-#### Pre-work
-
-* Dashboards emailed out Fridays by Amy Nicol, all attendees review and ask questions asynchronously if they have them.
-* By Monday at 12pm PT, key stakeholders add issues, challenges, and risk with next actions and asks to the team in the FRM doc.
-* Before the meeting on Tuesdays, all attendees have reviewed doc.
-
-#### Process
-
-* **\(0:10\) Review WBR Agenda Doc:** Time for all to read data.
-* **\(0:15\) MLT Good News:**  Always start with anyone wanting to share the good news, e.g., customer wins, new release delivered, new webpage launched, etc.
-* **\(0:20\) V2MOM Metrics Dashboard Review:** Review Dashboard.
-  * Discuss reds and new goals to create
-  * Discuss yellows and paths to green
-  * Review key updates to greens
-  * Create new action items and assign to owners in Asana 
-* **\(0:25\) 2x2 Business Review:** Review WBR 2x2 document summarizing:  
-  * State of the business
-    * Key business metrics \(ARR, churn, customer count, health score\)
-    * Big updates from Sales, R&D, Marketing, Finance, etc.
-  * Issues/Challenges/Risks
-    * Key customer issues \(at-risk customers, deals, etc.\)
-    * Key R&D risks/challenges/issues
-    * Key marketing risks/challenges
-  * Goals
-  * Upcoming Milestones
-  * Upcoming R&D milestones and dates
-  * Upcoming marketing milestones and dates
-* **\(0:55\) Decisions/Actions:** Summarize decisions/actions in writing 
+**TO BE UPDATED**
 
 ### MLT Weekly Executive Meeting
 
